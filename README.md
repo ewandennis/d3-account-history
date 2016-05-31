@@ -26,7 +26,7 @@ static -p 8000
 
 [Open http://localhost:8000/ in your browser.](http://localhost:8000/)
 
-Notes
+###Notes
 
 You can use regex in the search field at the top of the page.  If you use alternation (`|`), each alternate expression will be searched separately and results shown in a different colour.
 
