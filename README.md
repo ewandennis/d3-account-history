@@ -1,5 +1,9 @@
 ## Bank Account History Review And Search
 
+A timeline of bank account balance, credits and debits, with a very simple transaction search facility.
+
+![screenshot](sample.png)
+
 ### Installation
 
 Prerequisites:
